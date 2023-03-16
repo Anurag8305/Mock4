@@ -1,13 +1,21 @@
 {
-	"Mens": [
+	"hotels": [
 		{
-			"id": 1,
-			"title": "Maroon Color Block Cut & Sew T-Shirt",
-			"brand": "Brand GESPO",
-			"price": 399,
-			"img1": "https://img3.junaroad.com/uiproducts/17383330/zoom_0-1604506395.jpg",
-			"img2": "https://img3.junaroad.com/uiproducts/17383330/zoom_1-1604506395.jpg",
-			"img3": "https://img3.junaroad.com/uiproducts/17383330/zoom_2-1604506395.jpg"
+			"category": "Family",
+			"image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+			"type_of_room": "AC",
+			"bed_type": "Double",
+			"no_of_persons": "2",
+			"capacity": "3",
+			"cost": "4000",
+			"booked": false
 		}
-    ]
+	],
+	"users": [
+		{
+			"username": "Anurag",
+			"email": "anurag@gmail.com",
+			"password": "123456"
+		}
+	]
 }
