@@ -9,7 +9,7 @@
 			"capacity": "3",
 			"cost": "4000",
 			"booked": false,
-			"id":1
+			"id": 1
 		}
 	],
 	"users": [
@@ -17,7 +17,7 @@
 			"username": "Anurag",
 			"email": "anurag@gmail.com",
 			"password": "123456",
-			"id":1
+			"id": 1
 		}
 	]
 }
