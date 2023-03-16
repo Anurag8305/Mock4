@@ -8,14 +8,16 @@
 			"no_of_persons": "2",
 			"capacity": "3",
 			"cost": "4000",
-			"booked": false
+			"booked": false,
+			"id":1
 		}
 	],
 	"users": [
 		{
 			"username": "Anurag",
 			"email": "anurag@gmail.com",
-			"password": "123456"
+			"password": "123456",
+			"id":1
 		}
 	]
 }
