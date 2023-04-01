@@ -38,5 +38,14 @@
 			"username": "Anurag",
 			"id": 1
 		}
+	],
+	"gameuser":[
+		{
+			"name":"Anu",
+			"level":"Easy",
+			"points":5,
+			"id":1
+		}
 	]
+	
 }
